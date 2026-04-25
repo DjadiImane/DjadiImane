@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djadiimane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=djadiimane&label=Profile%20views&color=0e75b6&style=flat](https://github.com/DjadiImane)" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-blue?style=flat&labelColor=0e75b6" alt="Open to collaborate" />
   <img src="https://img.shields.io/badge/Status-Learning%20Frameworks-orange?style=flat" alt="Learning" />
 </p>
